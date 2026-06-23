@@ -1,1 +1,5 @@
-console.log("Hello via Bun!");
+function hello() {
+    console.log("Hello World!");
+}
+
+export { hello };
